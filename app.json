@@ -9,7 +9,7 @@
   "addons": [
 
   ],
-  "buildpacks": [
+  "buildpacks": [d
     {
       "url": "heroku/nodejs"
     }

@@ -4,7 +4,7 @@ var messages = [{
     "link": "http://fnac.com"
 }, {
     "title": "Déployer le configurateur sur Heroku",
-    "body": "Au travail bande de branle-bites",
+    "body": "Bla Bla Bla Bla Bla Bla",
     "link": "http://github.com"
 }, {
     "title": "Aller travailler mon javacript",
