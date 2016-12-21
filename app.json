@@ -1,0 +1,12 @@
+{
+    "name": "react-integration",
+    "scripts": {},
+    "env": {},
+    "formation": {},
+    "addons": [
+
+    ],
+    "buildpacks": [{
+        "url": "heroku/nodejs"
+    }]
+}
