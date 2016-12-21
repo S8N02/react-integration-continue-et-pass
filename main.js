@@ -5,7 +5,7 @@ let Express = require('express');
 let app = Express();
 
 let messages = require('./messages.js');
-let port = 80;
+let port = process.env.port;
 
 app.use(Express.static('./app'));
 
