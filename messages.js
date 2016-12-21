@@ -3,7 +3,7 @@ var messages = [{
     "body": "Demander a Cyril d'acheter un video projecteur",
     "link": "http://fnac.com"
 }, {
-    "title": "Déployer le configurateur sur Github",
+    "title": "Déployer le configurateur sur Heroku",
     "body": "Au travail bande de branle-bites",
     "link": "http://github.com"
 }, {
